@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm Gavin, a high school student with a passion fo
 - 💼 I have completed an internship with MCHA, gaining valuable industry experience.
 - 🤔 I have strong problem-solving abilities and management experience.
 - 🚀 I am self-directed and always eager to take on new challenges.
+- 🤖 I am a huge fan of Artificial Intelligence and Automation.
 
 ## Skills
 
