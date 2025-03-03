@@ -44,7 +44,7 @@ I am committed to continuous learning and improvement, and I look forward to bui
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com) or check out my projects here on GitHub. I'm always open to collaborating on interesting projects and learning from others in the community.
 
 ### ⚠️ Note ⚠️
-Not all of my projects are on GitHub. Most work-in-progress projects are not public. However, I'm happy to share the code upon request. Feel free to reach out if you're interested in any of my work!
+Not all of my projects are on GitHub. Most work-in-progress projects are not public. However, I'm happy to share the code upon request. Feel free to reach out if you're interested in any of my work! Also please excuse the lack of commits, I removed a large amount of old repositories that I wasn't happy with and were in a unfinished state.
 
 Thanks for visiting my profile!
 
